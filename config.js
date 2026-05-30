@@ -38,8 +38,8 @@ const CONFIG = {
   wedding: {
     date: "2026-12-05",
     time: "11:00",
-    venue: "수원 WI 컨벤션",
-    hall: "W 홀",
+    venue: "수원 WI 컨벤션 W Hall",
+    hall: "",
     address: "경기도 수원시 팔달구 월드컵로 310",
     tel: "무료 주차 2시간",
     mapLinks: {
