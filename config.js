@@ -43,7 +43,7 @@ const CONFIG = {
     address: "경기도 수원시 팔달구 월드컵로 310",
     tel: "무료 주차 2시간",
     mapLinks: {
-      kakao: "https://naver.me/GI3JJPcU",
+      kakao: "https://kko.to/O54BPZpmzW",
       naver: "https://naver.me/GI3JJPcU"
     }
   },
